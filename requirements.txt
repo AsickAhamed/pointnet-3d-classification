@@ -1,0 +1,7 @@
+# Core dependencies for the PointNet ModelNet40 classification notebook
+# Python version: 3.13.9
+
+tensorflow
+numpy
+h5py
+matplotlib
